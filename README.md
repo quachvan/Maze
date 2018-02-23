@@ -1,9 +1,9 @@
 Download the ZIP file and extract the file or open it in desktop.
-Run the solution on Visual Studio 2017 Community.
+Run the solution on Visual Studio and build.
 
 Download Postman if you have not done so already.
 Click on the dropdown and select 'POST'.
-Paste this url into the textbox: http://localhost:50941/api/SolveMaze/
+Paste this url into the textbox: http://localhost:8080/api/SolveMaze/
 Go to the 'Body' tab.
 Choose the 'raw' and 'JSON(application/json)' format.
 In the textbox enter your maze string under the 'Map' property in the body. 
