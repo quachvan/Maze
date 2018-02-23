@@ -1,4 +1,4 @@
-Download the project and extract the file.
+Download the ZIP file and extract the file or open it in desktop.
 Run the solution on Visual Studio 2017 Community.
 
 Download Postman if you have not done so already.
