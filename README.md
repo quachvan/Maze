@@ -20,4 +20,4 @@ Example: { Map:
          }
          
 Click 'Send' and you should see the response in the body. 
-Sorry for the inconvenience, but Postman can not turn '\r\n' into line breaks, so you will have to manually copy and paste it somewhere else and do the line breaks yourself. 
+Sorry for the inconvenience, but Postman can not style '\r\n' into line breaks, so you will have to manually copy and paste it somewhere else and do the line breaks yourself. 
