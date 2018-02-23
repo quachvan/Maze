@@ -1,0 +1,11 @@
+C:\Workspace\PeopleNet\PeopleNet\bin\Debug\netcoreapp2.0\PeopleNet.deps.json
+C:\Workspace\PeopleNet\PeopleNet\bin\Debug\netcoreapp2.0\PeopleNet.runtimeconfig.json
+C:\Workspace\PeopleNet\PeopleNet\bin\Debug\netcoreapp2.0\PeopleNet.runtimeconfig.dev.json
+C:\Workspace\PeopleNet\PeopleNet\bin\Debug\netcoreapp2.0\PeopleNet.dll
+C:\Workspace\PeopleNet\PeopleNet\bin\Debug\netcoreapp2.0\PeopleNet.pdb
+C:\Workspace\PeopleNet\PeopleNet\obj\Debug\netcoreapp2.0\PeopleNet.csprojResolveAssemblyReference.cache
+C:\Workspace\PeopleNet\PeopleNet\obj\Debug\netcoreapp2.0\PeopleNet.csproj.CoreCompileInputs.cache
+C:\Workspace\PeopleNet\PeopleNet\obj\Debug\netcoreapp2.0\PeopleNet.AssemblyInfoInputs.cache
+C:\Workspace\PeopleNet\PeopleNet\obj\Debug\netcoreapp2.0\PeopleNet.AssemblyInfo.cs
+C:\Workspace\PeopleNet\PeopleNet\obj\Debug\netcoreapp2.0\PeopleNet.dll
+C:\Workspace\PeopleNet\PeopleNet\obj\Debug\netcoreapp2.0\PeopleNet.pdb
