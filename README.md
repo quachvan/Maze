@@ -1,3 +1,6 @@
+Download the project and extract the file.
+Run the solution on Visual Studio 2017 Community.
+
 Download Postman if you have not done so already.
 Click on the dropdown and select 'POST'.
 Paste this url into the textbox: http://localhost:50941/api/SolveMaze/
